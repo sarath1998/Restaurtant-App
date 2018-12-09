@@ -17,7 +17,7 @@ $(function() {
     var optionSelected = $("option:selected", this);
     var ele = this.value;
 
-    var userkey = "44792c3e1a2980afbe99f83d50409691";
+    var userkey = "Put your Zomato api key";
     var url = "https://developers.zomato.com/api/v2.1/locations?query=";
     /*1st ajax request to obtain the city_id and entity_id values*/
     var city = ele;
