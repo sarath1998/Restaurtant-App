@@ -1,0 +1,100 @@
+.navbar {
+  margin-bottom: 0px;
+}
+
+.carousel-control {
+  visibility: hidden;
+}
+.form1 {
+  position: absolute;
+  top: 350px;
+  left: 250px;
+}
+
+.select-city {
+  width: 180px;
+}
+.find-your-restaurant {
+  position: absolute;
+  top: -83px;
+  color: white;
+  left: 196px;
+  font-size: 26px;
+}
+.form-control {
+  height: 48px;
+  border-radius: 9px;
+}
+.input-restarun {
+  width: 500px;
+}
+
+.btn-success {
+  height: 48px;
+  border-radius: 4px;
+  width: 140px;
+  font-size: 17px;
+  font-style: inherit;
+}
+
+.Mission {
+  border-right: 1px seagreen;
+}
+.contai-address {
+  background-color: white;
+}
+
+.contact-details,
+.get-in-touch {
+  border: 1px solid;
+  padding-left: 20px;
+  height: 450px;
+  border-radius: 10px;
+  border-width: 4px;
+  border-color: whitesmoke;
+}
+
+.get-in-touch-message {
+  width: 500px;
+}
+
+.message-submit-btn {
+  margin-left: 180px;
+}
+
+.hotel-content {
+  display: none;
+}
+.right-hotel-details {
+  margin-left: 10px;
+}
+
+#hotel-details {
+  display: none;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.review {
+  margin-top: 20px;
+}
+.review-input {
+  width: 75%;
+}
+
+.rating {
+  width: 50%;
+}
+
+.review-submit-btn {
+  height: 48px;
+  border-radius: 4px;
+  width: 140px;
+  font-size: 17px;
+  font-style: inherit;
+  margin-top: 10px;
+}
+
+#Values {
+  margin-top: 0px;
+}
